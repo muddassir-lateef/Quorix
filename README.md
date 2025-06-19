@@ -1,5 +1,5 @@
 # Quorix
-Quorix – Your ever-curious, voice-powered thinking companion that listens, remembers, and helps you untangle ideas like a genius rubber duck with a brain upgrade.
+Quorix – our ever-curious, voice-powered thinking companion that listens and helps you untangle ideas like a genius rubber duck. It can provide with you with many possible scenarioes and results of your ideas and their alternatives
 
 
 You'll need a Groq Cloud API key in order to run this.
